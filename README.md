@@ -1,16 +1,30 @@
-# flutter_blue_plus_example
+Flutter Health Bot
 
-Demonstrates how to use the flutter_blue_plus plugin.
+Flutter Health Bot is a Flutter application that helps monitor health, connect to heart rate measuring devices, and display real-time health data.
 
-## Getting Started
+📌 Features
 
-This project is a starting point for a Flutter application.
+- BLE connectivity with heart rate measuring devices (ESP32 + MAX30100)
 
-A few resources to get you started if this is your first Flutter project:
+- Real-time heart rate display
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Send alerts via Telegram when abnormalities are detected
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Intuitive and user-friendly interface
+
+🚀 Technologies Used
+
+- Flutter: Mobile application development framework
+
+- flutter_blue_plus: Bluetooth library for Flutter
+
+- permission_handler: Permission management
+
+
+- Telegram API: Send health alerts
+
+![image](https://github.com/user-attachments/assets/63e3a075-f31e-4399-b82a-2a11d9d5c731)![image](https://github.com/user-attachments/assets/99a90062-9a57-4292-b18e-6df25f42c784)
+![image](https://github.com/user-attachments/assets/710df723-f5d5-4555-bc05-a0f4d1c35775)![image](https://github.com/user-attachments/assets/a80b5ded-1114-4ec3-a009-90ac32770045)
+
+
+
