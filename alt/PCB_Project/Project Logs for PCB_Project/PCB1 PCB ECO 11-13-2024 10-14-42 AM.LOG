@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=R2-2
+Change Component Comment : Designator=u2 Old Comment=MAX30100 MODULE COPY New Comment=MAX30100
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=u2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-11
+Added Pin To Net: NetName=NetR2_2 Pin=u2-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetU1_29 Pin=U1-29
+Added Pin To Net: NetName=NetU1_29 Pin=u2-7
+Added Net: Name=NetU1_29

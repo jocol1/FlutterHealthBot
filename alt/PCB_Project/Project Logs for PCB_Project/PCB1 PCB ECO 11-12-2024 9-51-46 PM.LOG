@@ -1,0 +1,20 @@
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
